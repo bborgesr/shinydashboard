@@ -9,6 +9,7 @@ output:
 ```{r echo = FALSE, message=FALSE}
 library(shiny)
 library(shinydashboard)
+library(webshot)
 
 knitr::opts_chunk$set(collapse = TRUE, comment = "##")
 
